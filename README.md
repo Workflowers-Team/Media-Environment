@@ -8,3 +8,5 @@ Please ping us at contact@workflowers.net if you have questions or extra
 
 O
 * [An Awesome list (in French) of links for digital in general](https://github.com/supertanuki/numeriqueEcoResponsable)
+* Does ICT reduce energy demand? *https://www.sciencedirect.com/science/article/abs/pii/S0921800919320622?via%3Dihub
+
