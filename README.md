@@ -15,7 +15,7 @@ Studies
 Sector sustainability
 
 UK
--Albert Annual Report 2018 - environmental sustainability for the moving image industries.
+-Albert Annual Report 2018 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiBmdebt4LuAhWuzIUKHapyCiwQFjACegQIAxAC&url=https%3A%2F%2Fs3.eu-west-1.amazonaws.com%2Fm.mediagreenhouse.co.uk%2F02094%2F00545%2Fe299ef%2FalbertReport2018_03.pdf&usg=AOvVaw1axZecVgmSFPRsYhsg_yN0 - environmental sustainability for the moving image industries.
 -Albert annual report 2019-2020 - In 2019-20, Industry environmental sustainability’ positive progress.
 -Albert Screen New Deal (2020) - a route map to sustainable film production with some recommendations.
 -Green Matters 2020 by British Film Institute (BFI) - Environmental sustainability and film production: an overview of current practice.
